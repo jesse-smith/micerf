@@ -16,5 +16,6 @@ Suggests:
     covr,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://github.com/jesse-smith/micerf
+URL: https://github.com/jesse-smith/micerf,
+    https://jesse-smith.github.io/micerf/
 BugReports: https://github.com/jesse-smith/micerf/issues
