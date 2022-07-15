@@ -7,6 +7,9 @@
 
 [![CRAN
 status](https://www.r-pkg.org/badges/version/micerf)](https://CRAN.R-project.org/package=micerf)
+[![R-CMD-check](https://github.com/jesse-smith/micerf/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jesse-smith/micerf/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/jesse-smith/micerf/branch/master/graph/badge.svg)](https://app.codecov.io/gh/jesse-smith/micerf?branch=master)
 <!-- badges: end -->
 
 `{micerf}` is a stripped-down version of Multiple Imputation using
