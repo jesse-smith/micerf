@@ -1,0 +1,17 @@
+Package: micerf
+Title: Fast, Lightweight MICE using Random Forests
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jesse", "Smith", , "jesse.smith@stjude.org", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-7375-2463"))
+Description: {micerf} is a stripped-down version of Multiple Imputation using
+    Chained Equations (MICE) with Fully Conditional Specification (FCS) of
+    equations and either random forests or sampling from training values as
+    models.
+License: LGPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
